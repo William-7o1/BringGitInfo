@@ -1,0 +1,48 @@
+@media (max-width: 1200px) {
+
+
+  .site-main .about-area .row .about-image{
+      padding-top: 4.5%;
+      padding-left: 38%;
+  }
+
+
+  .input_wrapper{
+    width:510px;
+    height:52px;
+    position: relative;
+    left: 24%;
+  }
+
+}
+
+
+
+
+
+
+@media (max-width: 1002px) {
+
+
+    .site-main .about-area .row .about-image{
+        padding-top: 4.5%;
+        padding-left: 42%;
+    }
+.about-image{
+  padding-top: 20%;
+}
+
+   .gfg {
+     width: 110%;
+   }
+   .first-txt {
+       font-size: 55px;
+       color: white;
+       font-family: 'Sora', sans-serif;
+       position: absolute;
+       top: 28.5%;
+       left: 32%;
+}
+.site-main .a-area .row{
+    padding-left: 20%;
+}
