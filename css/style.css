@@ -169,50 +169,35 @@ header {
   left: 78%;
 }
 
-
-
-
-
-.container .row {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  width: 350px;
-  -webkit-box-shadow: 5px 42px 48px -34px rgba(0, 0, 0, 0.75);
-          box-shadow: 5px 42px 48px -34px rgba(0, 0, 0, 0.75);
+.site-main > .services-area .services{
+    margin-left: 5%;
+    margin-right: 5%;
+    background: #fafafa  ;
+    padding: 2rem 0;
+    width: 14rem;
+    margin: 2rem .5rem;
+    transition: 0px 10px 30px rgba(57, 56, 61, 0.205).6s ease;
 }
 
-.container .row .user_info {
-  width: 30%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  background-color: #bdbdbd;
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
-  padding: 50px;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+.site-main > .services-area .services:hover{
+    box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
 }
 
 .container .row .user_info img {
-  width: 150px;
-  height: 150px;
+  width: 220px;
+  padding-left: 1%;
+  height: 218px;
   border-radius: 50%;
-  border: 1px solid #000;
+  border: 2px solid #000;
   -o-object-fit: cover;
      object-fit: cover;
+}
+.services-area .container .row{
+  padding-left: 18%;
+}
+
+
+
+.follow{
+  padding-top: 25%;
 }
