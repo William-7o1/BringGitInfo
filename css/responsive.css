@@ -1,10 +1,15 @@
 @media (max-width: 1600px){
 
+
+
   .container .row {
-    position: absolute;
-    left: 34%;
-    top: 75%;
-    width: 310px;
+    padding-top: 10%;
+    padding-left: 5%;
+
+  }
+
+  .a-area .row{
+    padding-top: 10%;
   }
 
 
@@ -75,12 +80,6 @@
   }
 
 
-  .container .row {
-    position: absolute;
-    left: 31%;
-    top: 72%;
-    width: 300px;
-  }
 
 }
 
@@ -88,13 +87,6 @@
 
 @media (max-width: 1254px){
 
-
-    .container .row {
-      position: absolute;
-      left: 31%;
-      top: 60%;
-      width: 300px;
-    }
 
 
 
@@ -135,6 +127,7 @@
 
 
 @media (max-width: 1060px){
+
 
 
     .header_area .main-menu .navbar,
@@ -199,17 +192,16 @@
     top: 15%;
 
   }
-  .container .row {
-    position: absolute;
-    left: 31%;
-    top: 65%;
-    width: 300px;
-  }
 }
 
 
 
 @media (max-width: 992px){
+  .services-area .container .row{
+    padding-left: 34%;
+    padding-top: 20%;
+  }
+
 
 
   .site-main .about-area .row .about-image{
@@ -268,19 +260,16 @@
   left: 29%;
 }
 
-.container .row {
-  position: absolute;
-  left: 31%;
-  top: 56%;
-  width: 294px;
-}
-
 
 
 }
 
 
 @media (max-width: 780px){
+  .services-area .container .row{
+    padding-left: 34%;
+    padding-top: 20%;
+  }
 
 
   .please{
@@ -388,6 +377,22 @@
 
 
  @media (max-width: 450px) {
+
+   .header_area .main-menu .navbar,
+       .header_area .main-menu .navbar .navbar-brand
+       {
+           padding: 4%;
+           margin: 0%;
+       }
+
+
+   .services-area .container .row{
+     padding-left: 24%;
+     padding-top: 20%;
+   }
+
+
+
    .site-main .about-area .row .about-image{
        padding-top: 20%;
        padding-left:162px;
@@ -465,6 +470,12 @@
 
 
 @media (max-width: 375px){
+
+     .services-area .container .row{
+       padding-left: 22%;
+       padding-top: 22%;
+     }
+
 
   .site-main .about-area .row .about-image{
       padding-top: 20%;
