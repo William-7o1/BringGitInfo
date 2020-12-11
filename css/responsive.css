@@ -387,7 +387,7 @@
 
 
    .services-area .container .row{
-     padding-left: 24%;
+     padding-left: 19.5%;
      padding-top: 20%;
    }
 
@@ -458,8 +458,14 @@
   }
 
 
+  .site-main .about-area .row .about-image{
+      padding-top: 20%;
+      padding-left:78px;
+  }
 
-
+.please{
+  width: 84%;
+}
 
 
 
@@ -472,18 +478,18 @@
 @media (max-width: 375px){
 
      .services-area .container .row{
-       padding-left: 22%;
+       padding-left: 16.4%;
        padding-top: 22%;
      }
 
 
   .site-main .about-area .row .about-image{
       padding-top: 20%;
-      padding-left:102px;
+      padding-left:68px;
   }
 
 .please{
-  width: 84%;
+  width: 90%;
 }
 
 .input_user {
@@ -544,8 +550,21 @@
   }
 
   .site-main .a-area .row {
-    padding-left: 28%;
+    padding-left: 24%;
+  }
+  .services-area .container .row{
+    padding-left: 16%;
+    padding-top: 38%;
   }
 
+
+.site-main .about-area .row .about-image{
+   padding-top: 20%;
+   padding-left:68px;
+}
+
+.please{
+width: 100%;
+}
 
   }
