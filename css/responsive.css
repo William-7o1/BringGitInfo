@@ -1,48 +1,540 @@
-@media (max-width: 1200px) {
+@media (max-width: 1600px){
 
-
-  .site-main .about-area .row .about-image{
-      padding-top: 4.5%;
-      padding-left: 38%;
+  .container .row {
+    position: absolute;
+    left: 34%;
+    top: 75%;
+    width: 310px;
   }
 
 
-  .input_wrapper{
-    width:510px;
-    height:52px;
+
+
+  .site-main .about-area .row .about-image{
+      padding-top: 5%;
+      padding-left: 33%;
+  }
+
+
+  .input_wrapper {
+    width: 510px;
+    height: 52px;
+    position: relative;
+    left: 24.5%;
+  }
+
+  .input_user {
+    width: 130%;
+    height: 110%;
+    background-color: #f6f5f1;
+    border: none;
+    box-sizing: border-box;
+  }
+
+
+  .btn_submit {
+    position: relative;
+    left: 59%;
+    top: 55%;
+  }
+
+
+}
+
+
+
+@media (max-width: 1400px){
+
+
+  .site-main .about-area .row .about-image{
+      padding-top: 5%;
+      padding-left: 34.5%;
+  }
+
+
+  .input_wrapper {
+    width: 510px;
+    height: 52px;
+    position: relative;
+    left: 23.5%;
+  }
+
+  .input_user {
+    width: 130%;
+    height: 110%;
+    background-color: #f6f5f1;
+    border: none;
+    box-sizing: border-box;
+  }
+
+
+  .btn_submit {
+    position: relative;
+    left: 59%;
+    top: 55%;
+  }
+
+
+  .container .row {
+    position: absolute;
+    left: 31%;
+    top: 72%;
+    width: 300px;
+  }
+
+}
+
+
+
+@media (max-width: 1254px){
+
+
+    .container .row {
+      position: absolute;
+      left: 31%;
+      top: 60%;
+      width: 300px;
+    }
+
+
+
+  .site-main .about-area .row .about-image{
+      padding-top: 5%;
+      padding-left: 440px;
+  }
+
+
+
+  .input_wrapper {
+    width: 480px;
+    height: 50px;
     position: relative;
     left: 24%;
   }
 
+  .input_user {
+    width: 130%;
+    height: 110%;
+    background-color: #f6f5f1;
+    border: none;
+    box-sizing: border-box;
+  }
+
+
+  .btn_submit {
+    position: relative;
+    left: 59%;
+    top: 55%;
+  }
+
+
 }
 
 
 
 
 
+@media (max-width: 1060px){
 
-@media (max-width: 1002px) {
+
+    .header_area .main-menu .navbar,
+       .header_area .main-menu .navbar .navbar-brand{
+         padding: 2%;
+          margin: 0%;
+       }
+
+  .header_area .main-menu .image{
+    width: 4%;
+}
+
+  .site-main .about-area .row .about-image{
+      padding-top: 12%;
+      padding-left: 360px;
+  }
+
+
+
+  .input_wrapper {
+    width: 450px;
+    height: 46px;
+    position: relative;
+    left: 22%;
+  }
+
+  .input_user {
+    width: 130%;
+    height: 110%;
+    background-color: #f6f5f1;
+    border: none;
+    box-sizing: border-box;
+  }
+
+
+  .btn_submit {
+    position: relative;
+    left: 56%;
+    top: 55%;
+  }
+
+
+  .gfg {
+    width: 100%;
+    position: relative;
+    padding-top: 8%;
+  }
+
+  .first-txt {
+    font-size: 68px;
+    color: white;
+    font-family: 'Sora', sans-serif;
+    position: absolute;
+    top: 28.5%;
+    left: 28%;
+  }
+
+  .site-main .a-area .row .about-image {
+    width: 80%;
+    position: relative;
+    right: 2%;
+    top: 15%;
+
+  }
+  .container .row {
+    position: absolute;
+    left: 31%;
+    top: 65%;
+    width: 300px;
+  }
+}
+
+
+
+@media (max-width: 992px){
+
+
+  .site-main .about-area .row .about-image{
+      padding-top: 12%;
+      padding-left: 350px;
+  }
+
+
+
+  .input_wrapper {
+    width: 450px;
+    height: 52px;
+    position: relative;
+    left: 20.5%;
+  }
+
+  .input_user {
+    width: 130%;
+    height: 110%;
+    background-color: #f6f5f1;
+    border: none;
+    box-sizing: border-box;
+  }
+
+
+  .btn_submit {
+    position: relative;
+    left: 55%;
+    top: 55%;
+  }
+
+  .header_area .main-menu .navbar,
+     .header_area .main-menu .navbar .navbar-brand{
+       padding: 2%;
+        margin: 0%;
+     }
+
+.header_area .main-menu .image{
+  width: 5%;
+
+}
+
+
+.gfg {
+  width: 100%;
+  position: relative;
+  padding-top: 8%;
+}
+
+.first-txt {
+  font-size: 60px;
+  color: white;
+  font-family: 'Sora', sans-serif;
+  position: absolute;
+  top: 28.5%;
+  left: 29%;
+}
+
+.container .row {
+  position: absolute;
+  left: 31%;
+  top: 56%;
+  width: 294px;
+}
+
+
+
+}
+
+
+@media (max-width: 780px){
+
+
+  .please{
+    width: 55%;
+  }
+  .site-main .about-area .row .about-image{
+      padding-top: 12%;
+      padding-left:252px;
+  }
+
+
+
+  .input_wrapper {
+    width: 330px;
+    height: 50px;
+    position: relative;
+    left: 22.5%;
+  }
+
+  .input_user {
+    width: 130%;
+    height: 110%;
+    background-color: #f6f5f1;
+    border: none;
+    box-sizing: border-box;
+  }
+
+
+  .btn_submit {
+    position: relative;
+    left: 55%;
+    top: 55%;
+  }
+
+
+
+  .first-txt {
+    font-size: 56px;
+    color: white;
+    font-family: 'Sora', sans-serif;
+    position: absolute;
+    top: 28.5%;
+    left: 26%;
+  }
+
+  .site-main .a-area .row .about-image {
+    width: 92%;
+    position: relative;
+
+
+}
+
+
+@media (max-width: 590px) {
 
 
     .site-main .about-area .row .about-image{
-        padding-top: 4.5%;
-        padding-left: 42%;
+        padding-top: 16%;
+        padding-left:224px;
     }
-.about-image{
-  padding-top: 20%;
+
+
+
+    .input_wrapper {
+      width: 300px;
+      height: 50px;
+      position: relative;
+      left: 19%;
+    }
+
+    .input_user {
+      width: 130%;
+      height: 110%;
+      background-color: #f6f5f1;
+      border: none;
+      box-sizing: border-box;
+    }
+
+
+    .btn_submit {
+      position: relative;
+      left: 50%;
+      top: 55%;
+    }
+
+    .gfg {
+      width: 100%;
+      position: relative;
+      padding-top: 8%;
+    }
+
+    .first-txt {
+      font-size: 42px;
+      color: white;
+      font-family: 'Sora', sans-serif;
+      position: absolute;
+      top: 28.5%;
+      left: 26%;
+    }
+
+
+ }
+
+
+
+
+ @media (max-width: 450px) {
+   .site-main .about-area .row .about-image{
+       padding-top: 20%;
+       padding-left:162px;
+   }
+
+
+
+   .input_wrapper {
+     width: 200px;
+     height: 40px;
+     position: relative;
+     left: 22.4%;
+   }
+
+   .input_user {
+     width: 130%;
+     height: 110%;
+     background-color: #f6f5f1;
+     border: none;
+     box-sizing: border-box;
+   }
+
+
+   .btn_submit {
+     position: relative;
+     left: 44.4%;
+     top: 55%;
+   }
+
+   .header_area .main-menu .image{
+      width: 8%;
+
 }
 
-   .gfg {
-     width: 110%;
-   }
-   .first-txt {
-       font-size: 55px;
-       color: white;
-       font-family: 'Sora', sans-serif;
-       position: absolute;
-       top: 28.5%;
-       left: 32%;
+.gfg {
+  width: 100%;
+  position: relative;
+  padding-top: 8%;
 }
-.site-main .a-area .row{
-    padding-left: 20%;
+
+.first-txt {
+  font-size: 36px;
+  color: white;
+  font-family: 'Sora', sans-serif;
+  position: absolute;
+  top: 28.5%;
+  left: 24%;
 }
+
+.site-main .a-area .row {
+  padding-left: 24%;
+}
+.site-main .a-area .row .about-image {
+  width: 92%;
+  position: relative;
+  right: 14%;
+
+}
+
+.site-main .a-area .about-title h2>span {
+    padding-top: 15%;
+
+  }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 375px){
+
+  .site-main .about-area .row .about-image{
+      padding-top: 20%;
+      padding-left:102px;
+  }
+
+.please{
+  width: 84%;
+}
+
+.input_user {
+  width: 128%;
+  height: 110%;
+  background-color: #f6f5f1;
+  border: none;
+  box-sizing: border-box;
+}
+
+
+.btn_submit {
+  position: relative;
+  left: 46%;
+  top: 55%;
+}
+
+
+
+.gfg {
+  width: 104%;
+  position: relative;
+  padding-top: 8%;
+}
+
+.first-txt {
+  font-size: 31px;
+  color: white;
+  font-family: 'Sora', sans-serif;
+  position: absolute;
+  top: 28.5%;
+  left: 22%;
+}
+}
+
+
+
+
+
+}
+
+
+@media (max-width: 325px){
+
+  .gfg {
+    width: 120%;
+    position: relative;
+    padding-top: 8%;
+  }
+
+  .first-txt {
+    font-size: 28px;
+    color: white;
+    font-family: 'Sora', sans-serif;
+    position: absolute;
+    top: 28.5%;
+    left: 20%;
+  }
+
+  .site-main .a-area .row {
+    padding-left: 28%;
+  }
+
+
+  }
