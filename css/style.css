@@ -71,7 +71,7 @@ header {
 }
 
 .section-1 {
-  padding: 30vmin 35vmin;
+  padding: 30vmin 34vmin;
 }
 
 .section-1 .row .col-md-6 .pray img {
@@ -167,7 +167,9 @@ header {
   position: absolute;
   bottom: 25%;
   left: 78%;
+
 }
+
 
 .site-main > .services-area .services{
     margin-left: 5%;
@@ -195,7 +197,6 @@ header {
 .services-area .container .row{
   padding-left: 18%;
 }
-
 
 
 .follow{
