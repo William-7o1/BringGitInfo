@@ -17,7 +17,7 @@
 
   .site-main .about-area .row .about-image{
       padding-top: 5%;
-      padding-left: 33%;
+      padding-left: 38.5%;
   }
 
 
@@ -25,7 +25,7 @@
     width: 510px;
     height: 52px;
     position: relative;
-    left: 24.5%;
+    left: 29.5%;
   }
 
   .input_user {
@@ -53,15 +53,18 @@
 
   .site-main .about-area .row .about-image{
       padding-top: 5%;
-      padding-left: 34.5%;
+      padding-left: 37%;
   }
 
+  .services-area .container .row{
+    padding-left: 22%;
+  }
 
   .input_wrapper {
     width: 510px;
     height: 52px;
     position: relative;
-    left: 23.5%;
+    left:27%;
   }
 
   .input_user {
@@ -75,7 +78,7 @@
 
   .btn_submit {
     position: relative;
-    left: 59%;
+    left: 56%;
     top: 55%;
   }
 
@@ -92,7 +95,7 @@
 
   .site-main .about-area .row .about-image{
       padding-top: 5%;
-      padding-left: 440px;
+      padding-left: 470px;
   }
 
 
@@ -101,7 +104,7 @@
     width: 480px;
     height: 50px;
     position: relative;
-    left: 24%;
+    left: 26.4%;
   }
 
   .input_user {
@@ -115,7 +118,7 @@
 
   .btn_submit {
     position: relative;
-    left: 59%;
+    left: 56%;
     top: 55%;
   }
 
@@ -142,7 +145,7 @@
 
   .site-main .about-area .row .about-image{
       padding-top: 12%;
-      padding-left: 360px;
+      padding-left: 392px;
   }
 
 
@@ -151,7 +154,7 @@
     width: 450px;
     height: 46px;
     position: relative;
-    left: 22%;
+    left: 24%;
   }
 
   .input_user {
@@ -165,7 +168,7 @@
 
   .btn_submit {
     position: relative;
-    left: 56%;
+    left: 54%;
     top: 55%;
   }
 
@@ -192,6 +195,9 @@
     top: 15%;
 
   }
+  .services-area .container .row{
+    padding-left: 20%;
+  }
 }
 
 
@@ -206,7 +212,7 @@
 
   .site-main .about-area .row .about-image{
       padding-top: 12%;
-      padding-left: 350px;
+      padding-left: 370px;
   }
 
 
@@ -215,7 +221,7 @@
     width: 450px;
     height: 52px;
     position: relative;
-    left: 20.5%;
+    left: 22%;
   }
 
   .input_user {
@@ -387,7 +393,7 @@
 
 
    .services-area .container .row{
-     padding-left: 19.5%;
+     padding-left: 17.4%;
      padding-top: 20%;
    }
 
@@ -404,7 +410,7 @@
      width: 200px;
      height: 40px;
      position: relative;
-     left: 22.4%;
+     left: 20%;
    }
 
    .input_user {
@@ -418,7 +424,7 @@
 
    .btn_submit {
      position: relative;
-     left: 44.4%;
+     left: 42.4%;
      top: 55%;
    }
 
@@ -434,12 +440,11 @@
 }
 
 .first-txt {
-  font-size: 36px;
-  color: white;
+  font-size: 30px;
   font-family: 'Sora', sans-serif;
   position: absolute;
   top: 28.5%;
-  left: 24%;
+  left: 28%;
 }
 
 .site-main .a-area .row {
@@ -457,7 +462,9 @@
 
   }
 
-
+  .site-main .a-area p {
+      text-align: center;
+    }
   .site-main .about-area .row .about-image{
       padding-top: 20%;
       padding-left:78px;
@@ -475,7 +482,7 @@
 }
 
 
-@media (max-width: 375px){
+@media (max-width: 376px){
 
      .services-area .container .row{
        padding-left: 16.4%;
@@ -503,7 +510,7 @@
 
 .btn_submit {
   position: relative;
-  left: 46%;
+  left: 42.5%;
   top: 55%;
 }
 
@@ -516,12 +523,10 @@
 }
 
 .first-txt {
-  font-size: 31px;
-  color: white;
-  font-family: 'Sora', sans-serif;
+  font-size: 28px;
   position: absolute;
   top: 28.5%;
-  left: 22%;
+  left: 24%;
 }
 }
 
@@ -541,12 +546,10 @@
   }
 
   .first-txt {
-    font-size: 28px;
-    color: white;
-    font-family: 'Sora', sans-serif;
+    font-size: 26px;
     position: absolute;
     top: 28.5%;
-    left: 20%;
+    left: 26%;
   }
 
   .site-main .a-area .row {
