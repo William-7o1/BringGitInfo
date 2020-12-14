@@ -1,5 +1,5 @@
 const user_img = document.querySelector(".user_img");
-const userName = document.querySelector(".user_name h1");
+const userName = document.querySelector(".user_name h4");
 const followers_ = document.querySelector(".followers_ span");
 const follow_ = document.querySelector(".follow_ span");
 const btn_submit = document.querySelector(".btn_submit");
